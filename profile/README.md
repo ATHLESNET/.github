@@ -1,4 +1,5 @@
-# NodeMod
+# <img src="https://i.ibb.co/Nn8NvmH/Tavola-disegno-1-1.png" alt="NodeMod" width="300">
+
 Formerly a Discord Bot free web hosting, NodeMod has been discontinued for 2 years to renew all his services and now offering IT Solutions for sports, in particular Track&Field
 
 # Main projects
@@ -21,4 +22,3 @@ TFracewalk is the web application dedicated to the communication of warning data
 #
 > [!TIP]
 > **Contact us!** If you are interested in collaborating with us or use our applications, contact us at info@nodemod.org.
-
