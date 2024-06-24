@@ -1,4 +1,4 @@
-# <img src="https://i.ibb.co/Nn8NvmH/Tavola-disegno-1-1.png" alt="NodeMod" width="300">
+ <img src="https://i.ibb.co/Nn8NvmH/Tavola-disegno-1-1.png" alt="NodeMod" width="400">
 
 Formerly a Discord Bot free web hosting, NodeMod has been discontinued for 2 years to renew all his services and now offering IT Solutions for sports, in particular Track&Field
 
